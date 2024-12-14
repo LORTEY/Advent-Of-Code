@@ -1,5 +1,5 @@
 import os
-
+# day 1 first question
 path = os.path.join(os.path.dirname(__file__), "input.txt")
 
 f = open(path, "r")
